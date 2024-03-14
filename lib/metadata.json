@@ -1,6 +1,6 @@
 {
   "vaultName": "school",
-  "lastExport": 1710420431846,
+  "lastExport": 1710424503607,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -16,42 +16,27 @@
     "География/📒Природные ресурсы земной коры.md",
     "География/📒Рельеф.md",
     "География/📒Солнечная радиация.md",
+    "География/1.png",
     "Геометрия/Тригонометрия/📒Синус, косинус, тангенс треугольника..md",
+    "Геометрия/Тригонометрия/1.png",
     "Информатика/Алгоритмы/📒 Алгоритмические конструкции.md",
+    "Информатика/Алгоритмы/0.png",
+    "Информатика/Алгоритмы/1.png",
+    "Информатика/Алгоритмы/2.png",
+    "Информатика/Алгоритмы/3.png",
+    "Информатика/Алгоритмы/4.png",
+    "Информатика/Алгоритмы/5.png",
+    "Информатика/Алгоритмы/6.png",
+    "Информатика/Алгоритмы/7.png",
     "История/История России в XVIII в/📒Россия в эпоху преобразований Петра I. Начальная точка..md",
     "История/История России в XVIII в/📒Социальные и национальные движения. Оппозиция реформам..md",
+    "История/История России в XVIII в/1.png",
+    "История/История России в XVIII в/2.png",
+    "История/История России в XVIII в/3.png",
     "Общество/📒Стимуляция труда.md",
-    "Прочее/img/1.png",
-    "Прочее/img/2.png",
-    "Прочее/img/3.png",
-    "Прочее/img/4.png",
-    "Прочее/img/5.png",
-    "Прочее/img/6.png",
-    "Прочее/img/7.png",
-    "Прочее/img/8.png",
-    "Прочее/img/9.png",
-    "Прочее/img/10.png",
-    "Прочее/img/11.png",
-    "Прочее/img/12.png",
-    "Прочее/img/13.png",
-    "Прочее/img/14.jpg",
-    "Прочее/img/15.png",
-    "Прочее/img/16.png",
-    "Прочее/img/17.png",
-    "Прочее/img/18.png",
-    "Прочее/img/19.png",
-    "Прочее/img/20.png",
-    "Прочее/img/21.png",
-    "Прочее/img/22.png",
-    "Прочее/img/23.png",
-    "Прочее/img/24.png",
-    "Прочее/img/25.png",
-    "Прочее/img/26.png",
-    "Прочее/img/27.png",
-    "Прочее/img/28.png",
-    "Прочее/img/29.png",
     "Русский язык/📄Подготовка к зачёту.pdf",
     "Русский язык/📄Подготовка к зачёту.md",
+    "Русский язык/1.png",
     "Физика/Элекричество/📒 Действие электрического тока..md",
     "Физика/Элекричество/📒 Закон Кулона.md",
     "Физика/Элекричество/📒 Направление электрического тока..md",
@@ -64,11 +49,26 @@
     "Физика/Элекричество/📒 Электрическое напряжение, единицы измерения. Вольтметр..md",
     "Физика/Элекричество/📒 Электрическое поле. Атом..md",
     "Физика/Элекричество/📒 Электрическое сопротивление. Закон ома для участка цепи..md",
+    "Физика/Элекричество/1.png",
+    "Физика/Элекричество/2.png",
+    "Физика/Элекричество/3.png",
+    "Физика/Элекричество/4.png",
+    "Физика/Элекричество/5.png",
+    "Физика/Элекричество/6.png",
+    "Физика/Элекричество/7.png",
+    "Физика/Элекричество/8.jpg",
+    "Физика/Элекричество/9.png",
+    "Физика/Элекричество/10.png",
+    "Физика/Элекричество/11.png",
+    "Физика/Элекричество/12.png",
+    "Физика/Элекричество/13.png",
     "Фун Грам/📒Неблагоприятные жизненные ситуации.md",
     "Фун Грам/📒Страхование.md",
     "Химия/📒Классы неорганических веществ. Оксиды и их Классификация..md",
     "Химия/📒Основания. Классификация и свойства оснований β..md",
     "Химия/📒Химические свойства оксидов.md",
+    "Химия/1.png",
+    "Химия/2.png",
     "Главная страница.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -141,8 +141,8 @@
     "lib/media/4.png",
     "lib/media/5.png",
     "lib/media/13.png",
-    "lib/media/1.png",
-    "lib/media/2.png"
+    "химия/img/1.png",
+    "химия/img/2.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -222,11 +222,11 @@
       "dependencies": []
     },
     "География/📒Атмосферный фронт. Циклоны и антициклоны..md": {
-      "modifiedTime": 1710420376366,
-      "sourceSize": 2471,
+      "modifiedTime": 1710424503607,
+      "sourceSize": 2489,
       "exportedPath": "география/📒атмосферный-фронт.-циклоны-и-антициклоны..html",
       "dependencies": [
-        "lib/media/29.png"
+        "география/1.png"
       ]
     },
     "География/📒Минеральные ресурсы.md": {
@@ -254,30 +254,36 @@
       "dependencies": []
     },
     "Геометрия/Тригонометрия/📒Синус, косинус, тангенс треугольника..md": {
-      "modifiedTime": 1710420376366,
-      "sourceSize": 860,
+      "modifiedTime": 1710424503607,
+      "sourceSize": 905,
       "exportedPath": "геометрия/тригонометрия/📒синус,-косинус,-тангенс-треугольника..html",
       "dependencies": [
-        "lib/media/28.png"
+        "геометрия/тригонометрия/1.png"
       ]
     },
     "Информатика/Алгоритмы/📒 Алгоритмические конструкции.md": {
-      "modifiedTime": 1710420376366,
-      "sourceSize": 905,
+      "modifiedTime": 1710424503607,
+      "sourceSize": 1151,
       "exportedPath": "информатика/алгоритмы/📒-алгоритмические-конструкции.html",
       "dependencies": [
-        "lib/media/20.png",
-        "lib/media/21.png"
+        "информатика/алгоритмы/4.png",
+        "информатика/алгоритмы/2.png",
+        "информатика/алгоритмы/3.png",
+        "информатика/алгоритмы/7.png",
+        "информатика/алгоритмы/6.png",
+        "информатика/алгоритмы/5.png",
+        "информатика/алгоритмы/0.png",
+        "информатика/алгоритмы/1.png"
       ]
     },
     "История/История России в XVIII в/📒Россия в эпоху преобразований Петра I. Начальная точка..md": {
-      "modifiedTime": 1710420376366,
-      "sourceSize": 3973,
+      "modifiedTime": 1710424503607,
+      "sourceSize": 4135,
       "exportedPath": "история/история-россии-в-xviii-в/📒россия-в-эпоху-преобразований-петра-i.-начальная-точка..html",
       "dependencies": [
-        "lib/media/17.png",
-        "lib/media/18.png",
-        "lib/media/19.png"
+        "история/история-россии-в-xviii-в/2.png",
+        "история/история-россии-в-xviii-в/3.png",
+        "история/история-россии-в-xviii-в/1.png"
       ]
     },
     "История/История России в XVIII в/📒Социальные и национальные движения. Оппозиция реформам..md": {
@@ -299,11 +305,11 @@
       "dependencies": []
     },
     "Русский язык/📄Подготовка к зачёту.md": {
-      "modifiedTime": 1710420376366,
-      "sourceSize": 23336,
+      "modifiedTime": 1710424503607,
+      "sourceSize": 23359,
       "exportedPath": "русский-язык/📄подготовка-к-зачёту.html",
       "dependencies": [
-        "lib/media/16.png"
+        "русский-язык/1.png"
       ]
     },
     "Физика/Элекричество/📒 Действие электрического тока..md": {
@@ -333,40 +339,40 @@
       "dependencies": []
     },
     "Физика/Элекричество/📒 Сила тока, единицы силы тока. Амперметр β..md": {
-      "modifiedTime": 1710336488031,
-      "sourceSize": 1239,
+      "modifiedTime": 1710424503607,
+      "sourceSize": 1238,
       "exportedPath": "физика/элекричество/📒-сила-тока,-единицы-силы-тока.-амперметр-β..html",
       "dependencies": [
-        "физика/элекричество/11.png",
+        "физика/элекричество/9.png",
         "физика/элекричество/12.png"
       ]
     },
     "Физика/Элекричество/📒 Электризация тела.md": {
-      "modifiedTime": 1710420376366,
-      "sourceSize": 1401,
+      "modifiedTime": 1710424503607,
+      "sourceSize": 1400,
       "exportedPath": "физика/элекричество/📒-электризация-тела.html",
       "dependencies": [
-        "lib/media/15.png",
-        "lib/media/15.png",
-        "lib/media/14.jpg"
+        "физика/элекричество/11.png",
+        "физика/элекричество/11.png",
+        "физика/элекричество/8.jpg"
       ]
     },
     "Физика/Элекричество/📒 Электрический ток в металлах.md": {
-      "modifiedTime": 1710420376366,
-      "sourceSize": 1818,
+      "modifiedTime": 1710424503607,
+      "sourceSize": 1898,
       "exportedPath": "физика/элекричество/📒-электрический-ток-в-металлах.html",
       "dependencies": [
-        "lib/media/7.png",
-        "lib/media/8.png",
-        "lib/media/9.png"
+        "физика/элекричество/7.png",
+        "физика/элекричество/1.png",
+        "физика/элекричество/2.png"
       ]
     },
     "Физика/Элекричество/📒 Электрический ток. Источники электрического тока..md": {
-      "modifiedTime": 1710420376366,
-      "sourceSize": 1425,
+      "modifiedTime": 1710424503607,
+      "sourceSize": 1446,
       "exportedPath": "физика/элекричество/📒-электрический-ток.-источники-электрического-тока..html",
       "dependencies": [
-        "lib/media/6.png"
+        "физика/элекричество/6.png"
       ]
     },
     "Физика/Элекричество/📒 Электрическое напряжение, единицы измерения. Вольтметр..md": {
@@ -376,21 +382,21 @@
       "dependencies": []
     },
     "Физика/Элекричество/📒 Электрическое поле. Атом..md": {
-      "modifiedTime": 1710420376366,
-      "sourceSize": 2082,
+      "modifiedTime": 1710424503607,
+      "sourceSize": 2145,
       "exportedPath": "физика/элекричество/📒-электрическое-поле.-атом..html",
       "dependencies": [
-        "lib/media/3.png",
-        "lib/media/4.png",
-        "lib/media/5.png"
+        "физика/элекричество/5.png",
+        "физика/элекричество/3.png",
+        "физика/элекричество/4.png"
       ]
     },
     "Физика/Элекричество/📒 Электрическое сопротивление. Закон ома для участка цепи..md": {
-      "modifiedTime": 1710420376366,
-      "sourceSize": 1027,
+      "modifiedTime": 1710424503607,
+      "sourceSize": 1010,
       "exportedPath": "физика/элекричество/📒-электрическое-сопротивление.-закон-ома-для-участка-цепи..html",
       "dependencies": [
-        "lib/media/13.png"
+        "физика/элекричество/13.png"
       ]
     },
     "Фун Грам/📒Неблагоприятные жизненные ситуации.md": {
@@ -406,19 +412,19 @@
       "dependencies": []
     },
     "Химия/📒Классы неорганических веществ. Оксиды и их Классификация..md": {
-      "modifiedTime": 1710420376366,
-      "sourceSize": 2430,
+      "modifiedTime": 1710424503607,
+      "sourceSize": 2424,
       "exportedPath": "химия/📒классы-неорганических-веществ.-оксиды-и-их-классификация..html",
       "dependencies": [
-        "lib/media/1.png"
+        "химия/1.png"
       ]
     },
     "Химия/📒Основания. Классификация и свойства оснований β..md": {
-      "modifiedTime": 1710420376366,
-      "sourceSize": 845,
+      "modifiedTime": 1710424503607,
+      "sourceSize": 839,
       "exportedPath": "химия/📒основания.-классификация-и-свойства-оснований-β..html",
       "dependencies": [
-        "lib/media/2.png"
+        "химия/2.png"
       ]
     },
     "Химия/📒Химические свойства оксидов.md": {
@@ -440,313 +446,313 @@
       "dependencies": []
     },
     "физика/элекричество/11.png": {
-      "modifiedTime": 1710336488031,
-      "sourceSize": 38138,
+      "modifiedTime": 1710424503607,
+      "sourceSize": 174010,
       "exportedPath": "физика/элекричество/11.png",
       "dependencies": []
     },
     "физика/элекричество/12.png": {
-      "modifiedTime": 1710336488031,
+      "modifiedTime": 1710424503607,
       "sourceSize": 38944,
       "exportedPath": "физика/элекричество/12.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 33859,
+      "modifiedTime": 1710424503607,
+      "sourceSize": 32837,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 4505,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 157292,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 369,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1710420431846,
+      "modifiedTime": 1710424503607,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -871,190 +877,388 @@
       "exportedPath": "lib/media/13.png",
       "dependencies": []
     },
-    "lib/media/1.png": {
-      "modifiedTime": 1710420376366,
+    "прочее/drafts/геометрия/1.png": {
+      "modifiedTime": 1710420633357,
+      "sourceSize": 16030,
+      "exportedPath": "прочее/drafts/геометрия/1.png",
+      "dependencies": []
+    },
+    "прочее/архив/биология/скелет/skelet.jpg": {
+      "modifiedTime": 1710420633357,
+      "sourceSize": 47170,
+      "exportedPath": "прочее/архив/биология/скелет/skelet.jpg",
+      "dependencies": []
+    },
+    "прочее/архив/биология/скелет/3.jpg": {
+      "modifiedTime": 1710420633357,
+      "sourceSize": 123952,
+      "exportedPath": "прочее/архив/биология/скелет/3.jpg",
+      "dependencies": []
+    },
+    "прочее/архив/биология/скелет/2.jpg": {
+      "modifiedTime": 1710420633357,
+      "sourceSize": 105976,
+      "exportedPath": "прочее/архив/биология/скелет/2.jpg",
+      "dependencies": []
+    },
+    "прочее/архив/биология/скелет/1.png": {
+      "modifiedTime": 1710420633357,
+      "sourceSize": 677650,
+      "exportedPath": "прочее/архив/биология/скелет/1.png",
+      "dependencies": []
+    },
+    "прочее/архив/биология/скелет/4.jpg": {
+      "modifiedTime": 1710420633357,
+      "sourceSize": 84595,
+      "exportedPath": "прочее/архив/биология/скелет/4.jpg",
+      "dependencies": []
+    },
+    "прочее/архив/биология/скелет/cherep.jpg": {
+      "modifiedTime": 1710420633357,
+      "sourceSize": 92599,
+      "exportedPath": "прочее/архив/биология/скелет/cherep.jpg",
+      "dependencies": []
+    },
+    "химия/img/1.png": {
+      "modifiedTime": 1710420991428,
       "sourceSize": 46102,
-      "exportedPath": "lib/media/1.png",
+      "exportedPath": "химия/img/1.png",
       "dependencies": []
     },
-    "lib/media/2.png": {
-      "modifiedTime": 1710420376366,
+    "химия/img/2.png": {
+      "modifiedTime": 1710420991428,
       "sourceSize": 35395,
-      "exportedPath": "lib/media/2.png",
+      "exportedPath": "химия/img/2.png",
       "dependencies": []
     },
-    "Прочее/img/1.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 46102,
-      "exportedPath": "прочее/img/1.png",
-      "dependencies": []
-    },
-    "Прочее/img/2.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 35395,
-      "exportedPath": "прочее/img/2.png",
-      "dependencies": []
-    },
-    "Прочее/img/3.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 284222,
-      "exportedPath": "прочее/img/3.png",
-      "dependencies": []
-    },
-    "Прочее/img/4.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 76440,
-      "exportedPath": "прочее/img/4.png",
-      "dependencies": []
-    },
-    "Прочее/img/5.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 75162,
-      "exportedPath": "прочее/img/5.png",
-      "dependencies": []
-    },
-    "Прочее/img/6.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 69191,
-      "exportedPath": "прочее/img/6.png",
-      "dependencies": []
-    },
-    "Прочее/img/7.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 570890,
-      "exportedPath": "прочее/img/7.png",
-      "dependencies": []
-    },
-    "Прочее/img/8.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 18930,
-      "exportedPath": "прочее/img/8.png",
-      "dependencies": []
-    },
-    "Прочее/img/9.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 8358,
-      "exportedPath": "прочее/img/9.png",
-      "dependencies": []
-    },
-    "Прочее/img/10.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 576997,
-      "exportedPath": "прочее/img/10.png",
-      "dependencies": []
-    },
-    "Прочее/img/11.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 38138,
-      "exportedPath": "прочее/img/11.png",
-      "dependencies": []
-    },
-    "Прочее/img/12.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 38944,
-      "exportedPath": "прочее/img/12.png",
-      "dependencies": []
-    },
-    "Прочее/img/13.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 129612,
-      "exportedPath": "прочее/img/13.png",
-      "dependencies": []
-    },
-    "Прочее/img/14.jpg": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 54203,
-      "exportedPath": "прочее/img/14.jpg",
-      "dependencies": []
-    },
-    "Прочее/img/15.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 174010,
-      "exportedPath": "прочее/img/15.png",
-      "dependencies": []
-    },
-    "Прочее/img/16.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 35755,
-      "exportedPath": "прочее/img/16.png",
-      "dependencies": []
-    },
-    "Прочее/img/17.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 73429,
-      "exportedPath": "прочее/img/17.png",
-      "dependencies": []
-    },
-    "Прочее/img/18.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 115289,
-      "exportedPath": "прочее/img/18.png",
-      "dependencies": []
-    },
-    "Прочее/img/19.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 595238,
-      "exportedPath": "прочее/img/19.png",
-      "dependencies": []
-    },
-    "Прочее/img/20.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 306609,
-      "exportedPath": "прочее/img/20.png",
-      "dependencies": []
-    },
-    "Прочее/img/21.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 211019,
-      "exportedPath": "прочее/img/21.png",
-      "dependencies": []
-    },
-    "Прочее/img/22.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 7841,
-      "exportedPath": "прочее/img/22.png",
-      "dependencies": []
-    },
-    "Прочее/img/23.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 13399,
-      "exportedPath": "прочее/img/23.png",
-      "dependencies": []
-    },
-    "Прочее/img/24.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 17095,
-      "exportedPath": "прочее/img/24.png",
-      "dependencies": []
-    },
-    "Прочее/img/25.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 13062,
-      "exportedPath": "прочее/img/25.png",
-      "dependencies": []
-    },
-    "Прочее/img/26.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 9252,
-      "exportedPath": "прочее/img/26.png",
-      "dependencies": []
-    },
-    "Прочее/img/27.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 16523,
-      "exportedPath": "прочее/img/27.png",
-      "dependencies": []
-    },
-    "Прочее/img/28.png": {
-      "modifiedTime": 1710420431846,
-      "sourceSize": 13431,
-      "exportedPath": "прочее/img/28.png",
-      "dependencies": []
-    },
-    "Прочее/img/29.png": {
-      "modifiedTime": 1710420431846,
+    "География/1.png": {
+      "modifiedTime": 1710424503607,
       "sourceSize": 62337,
-      "exportedPath": "прочее/img/29.png",
+      "exportedPath": "география/1.png",
+      "dependencies": []
+    },
+    "Геометрия/Тригонометрия/1.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 13431,
+      "exportedPath": "геометрия/тригонометрия/1.png",
+      "dependencies": []
+    },
+    "Информатика/Алгоритмы/0.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 306609,
+      "exportedPath": "информатика/алгоритмы/0.png",
+      "dependencies": []
+    },
+    "Информатика/Алгоритмы/1.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 211019,
+      "exportedPath": "информатика/алгоритмы/1.png",
+      "dependencies": []
+    },
+    "Информатика/Алгоритмы/2.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 7841,
+      "exportedPath": "информатика/алгоритмы/2.png",
+      "dependencies": []
+    },
+    "Информатика/Алгоритмы/3.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 13399,
+      "exportedPath": "информатика/алгоритмы/3.png",
+      "dependencies": []
+    },
+    "Информатика/Алгоритмы/4.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 17095,
+      "exportedPath": "информатика/алгоритмы/4.png",
+      "dependencies": []
+    },
+    "Информатика/Алгоритмы/5.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 13062,
+      "exportedPath": "информатика/алгоритмы/5.png",
+      "dependencies": []
+    },
+    "Информатика/Алгоритмы/6.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 9252,
+      "exportedPath": "информатика/алгоритмы/6.png",
+      "dependencies": []
+    },
+    "Информатика/Алгоритмы/7.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 16523,
+      "exportedPath": "информатика/алгоритмы/7.png",
+      "dependencies": []
+    },
+    "История/История России в XVIII в/1.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 595238,
+      "exportedPath": "история/история-россии-в-xviii-в/1.png",
+      "dependencies": []
+    },
+    "История/История России в XVIII в/2.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 73429,
+      "exportedPath": "история/история-россии-в-xviii-в/2.png",
+      "dependencies": []
+    },
+    "История/История России в XVIII в/3.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 115289,
+      "exportedPath": "история/история-россии-в-xviii-в/3.png",
+      "dependencies": []
+    },
+    "Русский язык/1.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 35755,
+      "exportedPath": "русский-язык/1.png",
+      "dependencies": []
+    },
+    "Физика/Элекричество/1.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 18930,
+      "exportedPath": "физика/элекричество/1.png",
+      "dependencies": []
+    },
+    "Физика/Элекричество/2.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 8358,
+      "exportedPath": "физика/элекричество/2.png",
+      "dependencies": []
+    },
+    "Физика/Элекричество/3.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 76440,
+      "exportedPath": "физика/элекричество/3.png",
+      "dependencies": []
+    },
+    "Физика/Элекричество/4.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 75162,
+      "exportedPath": "физика/элекричество/4.png",
+      "dependencies": []
+    },
+    "Физика/Элекричество/5.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 284222,
+      "exportedPath": "физика/элекричество/5.png",
+      "dependencies": []
+    },
+    "Физика/Элекричество/6.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 69191,
+      "exportedPath": "физика/элекричество/6.png",
+      "dependencies": []
+    },
+    "Физика/Элекричество/7.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 570890,
+      "exportedPath": "физика/элекричество/7.png",
+      "dependencies": []
+    },
+    "Физика/Элекричество/8.jpg": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 54203,
+      "exportedPath": "физика/элекричество/8.jpg",
+      "dependencies": []
+    },
+    "Физика/Элекричество/9.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 38138,
+      "exportedPath": "физика/элекричество/9.png",
+      "dependencies": []
+    },
+    "Физика/Элекричество/10.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 576997,
+      "exportedPath": "физика/элекричество/10.png",
+      "dependencies": []
+    },
+    "Физика/Элекричество/11.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 174010,
+      "exportedPath": "физика/элекричество/11.png",
+      "dependencies": []
+    },
+    "Физика/Элекричество/12.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 38944,
+      "exportedPath": "физика/элекричество/12.png",
+      "dependencies": []
+    },
+    "Физика/Элекричество/13.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 129612,
+      "exportedPath": "физика/элекричество/13.png",
+      "dependencies": []
+    },
+    "Химия/1.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 46102,
+      "exportedPath": "химия/1.png",
+      "dependencies": []
+    },
+    "Химия/2.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 35395,
+      "exportedPath": "химия/2.png",
+      "dependencies": []
+    },
+    "география/1.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 62337,
+      "exportedPath": "география/1.png",
+      "dependencies": []
+    },
+    "геометрия/тригонометрия/1.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 13431,
+      "exportedPath": "геометрия/тригонометрия/1.png",
+      "dependencies": []
+    },
+    "информатика/алгоритмы/4.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 17095,
+      "exportedPath": "информатика/алгоритмы/4.png",
+      "dependencies": []
+    },
+    "информатика/алгоритмы/2.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 7841,
+      "exportedPath": "информатика/алгоритмы/2.png",
+      "dependencies": []
+    },
+    "информатика/алгоритмы/3.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 13399,
+      "exportedPath": "информатика/алгоритмы/3.png",
+      "dependencies": []
+    },
+    "информатика/алгоритмы/7.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 16523,
+      "exportedPath": "информатика/алгоритмы/7.png",
+      "dependencies": []
+    },
+    "информатика/алгоритмы/6.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 9252,
+      "exportedPath": "информатика/алгоритмы/6.png",
+      "dependencies": []
+    },
+    "информатика/алгоритмы/5.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 13062,
+      "exportedPath": "информатика/алгоритмы/5.png",
+      "dependencies": []
+    },
+    "информатика/алгоритмы/0.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 306609,
+      "exportedPath": "информатика/алгоритмы/0.png",
+      "dependencies": []
+    },
+    "информатика/алгоритмы/1.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 211019,
+      "exportedPath": "информатика/алгоритмы/1.png",
+      "dependencies": []
+    },
+    "история/история-россии-в-xviii-в/2.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 73429,
+      "exportedPath": "история/история-россии-в-xviii-в/2.png",
+      "dependencies": []
+    },
+    "история/история-россии-в-xviii-в/3.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 115289,
+      "exportedPath": "история/история-россии-в-xviii-в/3.png",
+      "dependencies": []
+    },
+    "история/история-россии-в-xviii-в/1.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 595238,
+      "exportedPath": "история/история-россии-в-xviii-в/1.png",
+      "dependencies": []
+    },
+    "русский-язык/1.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 35755,
+      "exportedPath": "русский-язык/1.png",
+      "dependencies": []
+    },
+    "физика/элекричество/9.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 38138,
+      "exportedPath": "физика/элекричество/9.png",
+      "dependencies": []
+    },
+    "физика/элекричество/8.jpg": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 54203,
+      "exportedPath": "физика/элекричество/8.jpg",
+      "dependencies": []
+    },
+    "физика/элекричество/7.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 570890,
+      "exportedPath": "физика/элекричество/7.png",
+      "dependencies": []
+    },
+    "физика/элекричество/1.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 18930,
+      "exportedPath": "физика/элекричество/1.png",
+      "dependencies": []
+    },
+    "физика/элекричество/2.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 8358,
+      "exportedPath": "физика/элекричество/2.png",
+      "dependencies": []
+    },
+    "физика/элекричество/6.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 69191,
+      "exportedPath": "физика/элекричество/6.png",
+      "dependencies": []
+    },
+    "физика/элекричество/5.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 284222,
+      "exportedPath": "физика/элекричество/5.png",
+      "dependencies": []
+    },
+    "физика/элекричество/3.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 76440,
+      "exportedPath": "физика/элекричество/3.png",
+      "dependencies": []
+    },
+    "физика/элекричество/4.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 75162,
+      "exportedPath": "физика/элекричество/4.png",
+      "dependencies": []
+    },
+    "физика/элекричество/13.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 129612,
+      "exportedPath": "физика/элекричество/13.png",
+      "dependencies": []
+    },
+    "химия/1.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 46102,
+      "exportedPath": "химия/1.png",
+      "dependencies": []
+    },
+    "химия/2.png": {
+      "modifiedTime": 1710424503607,
+      "sourceSize": 35395,
+      "exportedPath": "химия/2.png",
       "dependencies": []
     }
   }
