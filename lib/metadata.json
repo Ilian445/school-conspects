@@ -1,6 +1,6 @@
 {
   "vaultName": "school",
-  "lastExport": 1711968239516,
+  "lastExport": 1711972239405,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -36,11 +36,12 @@
     "Информатика/Алгоритмы/6.png",
     "Информатика/Алгоритмы/7.png",
     "Информатика/Информатика.md",
-    "История/История России в XVIII в/📒Россия в эпоху преобразований Петра I. Начальная точка..md",
-    "История/История России в XVIII в/📒Социальные и национальные движения. Оппозиция реформам..md",
-    "История/История России в XVIII в/1.png",
-    "История/История России в XVIII в/2.png",
-    "История/История России в XVIII в/3.png",
+    "История/📒Политика Екатерины II.md",
+    "История/📒Россия в эпоху преобразований Петра I. Начальная точка..md",
+    "История/📒Социальные и национальные движения. Оппозиция реформам..md",
+    "История/1.png",
+    "История/2.png",
+    "История/3.png",
     "История/История.md",
     "Общество/📒Стимуляция труда.md",
     "Общество/Обществознание.md",
@@ -154,9 +155,6 @@
     "информатика/алгоритмы/5.png",
     "информатика/алгоритмы/0.png",
     "информатика/алгоритмы/1.png",
-    "история/история-россии-в-xviii-в/2.png",
-    "история/история-россии-в-xviii-в/3.png",
-    "история/история-россии-в-xviii-в/1.png",
     "прочее/docker/1.png",
     "прочее/docker/2.png",
     "русский-язык/1.png",
@@ -296,34 +294,17 @@
       ]
     },
     "Информатика/Алгоритмы/📒 Алгоритмические конструкции.md": {
-      "modifiedTime": 1711298560233,
-      "sourceSize": 1211,
+      "modifiedTime": 1711972239405,
+      "sourceSize": 1252,
       "exportedPath": "информатика/алгоритмы/📒-алгоритмические-конструкции.html",
       "dependencies": [
         "информатика/алгоритмы/4.png",
-        "информатика/алгоритмы/3.png",
         "информатика/алгоритмы/7.png",
         "информатика/алгоритмы/6.png",
         "информатика/алгоритмы/5.png",
         "информатика/алгоритмы/0.png",
         "информатика/алгоритмы/1.png"
       ]
-    },
-    "История/История России в XVIII в/📒Россия в эпоху преобразований Петра I. Начальная точка..md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 4220,
-      "exportedPath": "история/история-россии-в-xviii-в/📒россия-в-эпоху-преобразований-петра-i.-начальная-точка..html",
-      "dependencies": [
-        "история/история-россии-в-xviii-в/2.png",
-        "история/история-россии-в-xviii-в/3.png",
-        "история/история-россии-в-xviii-в/1.png"
-      ]
-    },
-    "История/История России в XVIII в/📒Социальные и национальные движения. Оппозиция реформам..md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 3376,
-      "exportedPath": "история/история-россии-в-xviii-в/📒социальные-и-национальные-движения.-оппозиция-реформам..html",
-      "dependencies": []
     },
     "Общество/📒Стимуляция труда.md": {
       "modifiedTime": 1710869454730,
@@ -491,301 +472,301 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1711968239516,
-      "sourceSize": 43203,
+      "modifiedTime": 1711972239405,
+      "sourceSize": 42772,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1711968239516,
-      "sourceSize": 6655,
+      "modifiedTime": 1711972239405,
+      "sourceSize": 6586,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 157722,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 369,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1711968239516,
+      "modifiedTime": 1711972239405,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -904,24 +885,6 @@
       "exportedPath": "информатика/алгоритмы/7.png",
       "dependencies": []
     },
-    "История/История России в XVIII в/1.png": {
-      "modifiedTime": 1710424503607,
-      "sourceSize": 595238,
-      "exportedPath": "история/история-россии-в-xviii-в/1.png",
-      "dependencies": []
-    },
-    "История/История России в XVIII в/2.png": {
-      "modifiedTime": 1710424503607,
-      "sourceSize": 73429,
-      "exportedPath": "история/история-россии-в-xviii-в/2.png",
-      "dependencies": []
-    },
-    "История/История России в XVIII в/3.png": {
-      "modifiedTime": 1710424503607,
-      "sourceSize": 115289,
-      "exportedPath": "история/история-россии-в-xviii-в/3.png",
-      "dependencies": []
-    },
     "Русский язык/1.png": {
       "modifiedTime": 1710424503607,
       "sourceSize": 35755,
@@ -1031,7 +994,7 @@
       "dependencies": []
     },
     "информатика/алгоритмы/4.png": {
-      "modifiedTime": 1711298560233,
+      "modifiedTime": 1711972239405,
       "sourceSize": 17095,
       "exportedPath": "информатика/алгоритмы/4.png",
       "dependencies": []
@@ -1043,51 +1006,33 @@
       "dependencies": []
     },
     "информатика/алгоритмы/7.png": {
-      "modifiedTime": 1711298560233,
+      "modifiedTime": 1711972239405,
       "sourceSize": 16523,
       "exportedPath": "информатика/алгоритмы/7.png",
       "dependencies": []
     },
     "информатика/алгоритмы/6.png": {
-      "modifiedTime": 1711298560233,
+      "modifiedTime": 1711972239405,
       "sourceSize": 9252,
       "exportedPath": "информатика/алгоритмы/6.png",
       "dependencies": []
     },
     "информатика/алгоритмы/5.png": {
-      "modifiedTime": 1711298560233,
+      "modifiedTime": 1711972239405,
       "sourceSize": 13062,
       "exportedPath": "информатика/алгоритмы/5.png",
       "dependencies": []
     },
     "информатика/алгоритмы/0.png": {
-      "modifiedTime": 1711298560233,
+      "modifiedTime": 1711972239405,
       "sourceSize": 306609,
       "exportedPath": "информатика/алгоритмы/0.png",
       "dependencies": []
     },
     "информатика/алгоритмы/1.png": {
-      "modifiedTime": 1711298560233,
+      "modifiedTime": 1711972239405,
       "sourceSize": 211019,
       "exportedPath": "информатика/алгоритмы/1.png",
-      "dependencies": []
-    },
-    "история/история-россии-в-xviii-в/2.png": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 73429,
-      "exportedPath": "история/история-россии-в-xviii-в/2.png",
-      "dependencies": []
-    },
-    "история/история-россии-в-xviii-в/3.png": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 115289,
-      "exportedPath": "история/история-россии-в-xviii-в/3.png",
-      "dependencies": []
-    },
-    "история/история-россии-в-xviii-в/1.png": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 595238,
-      "exportedPath": "история/история-россии-в-xviii-в/1.png",
       "dependencies": []
     },
     "русский-язык/1.png": {
@@ -1238,8 +1183,8 @@
       "dependencies": []
     },
     "История/История.md": {
-      "modifiedTime": 1710868042867,
-      "sourceSize": 268,
+      "modifiedTime": 1711972239405,
+      "sourceSize": 317,
       "exportedPath": "история/история.html",
       "dependencies": []
     },
@@ -1346,6 +1291,64 @@
       "modifiedTime": 1711968239516,
       "sourceSize": 3501,
       "exportedPath": "алгебра/📒функция-β.html",
+      "dependencies": []
+    },
+    "История/📒Политика Екатерины II.md": {
+      "modifiedTime": 1711972239405,
+      "sourceSize": 2284,
+      "exportedPath": "история/📒политика-екатерины-ii.html",
+      "dependencies": []
+    },
+    "История/📒Россия в эпоху преобразований Петра I. Начальная точка..md": {
+      "modifiedTime": 1711972239405,
+      "sourceSize": 4100,
+      "exportedPath": "история/📒россия-в-эпоху-преобразований-петра-i.-начальная-точка..html",
+      "dependencies": [
+        "история/2.png",
+        "история/3.png",
+        "история/1.png"
+      ]
+    },
+    "История/📒Социальные и национальные движения. Оппозиция реформам..md": {
+      "modifiedTime": 1711972239405,
+      "sourceSize": 3429,
+      "exportedPath": "история/📒социальные-и-национальные-движения.-оппозиция-реформам..html",
+      "dependencies": []
+    },
+    "История/1.png": {
+      "modifiedTime": 1711972239405,
+      "sourceSize": 595238,
+      "exportedPath": "история/1.png",
+      "dependencies": []
+    },
+    "История/2.png": {
+      "modifiedTime": 1711972239405,
+      "sourceSize": 73429,
+      "exportedPath": "история/2.png",
+      "dependencies": []
+    },
+    "История/3.png": {
+      "modifiedTime": 1711972239405,
+      "sourceSize": 115289,
+      "exportedPath": "история/3.png",
+      "dependencies": []
+    },
+    "история/2.png": {
+      "modifiedTime": 1711972239405,
+      "sourceSize": 73429,
+      "exportedPath": "история/2.png",
+      "dependencies": []
+    },
+    "история/3.png": {
+      "modifiedTime": 1711972239405,
+      "sourceSize": 115289,
+      "exportedPath": "история/3.png",
+      "dependencies": []
+    },
+    "история/1.png": {
+      "modifiedTime": 1711972239405,
+      "sourceSize": 595238,
+      "exportedPath": "история/1.png",
       "dependencies": []
     }
   }
