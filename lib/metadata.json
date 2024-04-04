@@ -1,18 +1,19 @@
 {
   "vaultName": "school",
-  "lastExport": 1711972239405,
+  "lastExport": 1712244283820,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "Алгебра/Функции/📒Виды  функций α.md",
+    "Алгебра/Функции/📒Функция. Начальная точка. α.md",
     "Алгебра/📒Биквадратные уравнения.md",
     "Алгебра/📒Квадратный трёхчлен.md",
     "Алгебра/📒Неравенства.md",
     "Алгебра/📒Система уравнений.md",
     "Алгебра/📒Сложение и умножение числовых неравенств.md",
     "Алгебра/📒Уравнения с двумя неизвестными.md",
-    "Алгебра/📒Функция β.md",
     "Алгебра/Алгебра.md",
     "ВиС/🗒️  Задачи типа PS001.md",
     "ВиС/Теория вероятности и математическая статистика.md",
@@ -60,6 +61,7 @@
     "Физика/Элекричество/📒 Направление электрического тока..md",
     "Физика/Элекричество/📒 Объяснение электрических явлений. Напряжённость электрического поля..md",
     "Физика/Элекричество/📒 Последовательное и парралельное соединение.md",
+    "Физика/Элекричество/📒 Работа и мощность электрического тока. Закон Джоуля-Ленца.md",
     "Физика/Элекричество/📒 Расчёт сопротивления проводника. Удельное сопротивление..md",
     "Физика/Элекричество/📒 Сила тока, единицы силы тока. Амперметр β..md",
     "Физика/Элекричество/📒 Электризация тела.md",
@@ -89,6 +91,7 @@
     "Фун Грам/Функциальная грамотность.md",
     "Химия/📒Классы неорганических веществ. Оксиды и их Классификация..md",
     "Химия/📒Основания. Классификация и свойства оснований β..md",
+    "Химия/📒Строение атома.md",
     "Химия/📒Химические свойства оксидов.md",
     "Химия/1.png",
     "Химия/2.png",
@@ -149,12 +152,14 @@
     "география/1.png",
     "геометрия/тригонометрия/1.png",
     "информатика/алгоритмы/4.png",
-    "информатика/алгоритмы/3.png",
     "информатика/алгоритмы/7.png",
     "информатика/алгоритмы/6.png",
     "информатика/алгоритмы/5.png",
     "информатика/алгоритмы/0.png",
     "информатика/алгоритмы/1.png",
+    "история/2.png",
+    "история/3.png",
+    "история/1.png",
     "прочее/docker/1.png",
     "прочее/docker/2.png",
     "русский-язык/1.png",
@@ -230,75 +235,77 @@
   ],
   "fileInfo": {
     "Алгебра/📒Биквадратные уравнения.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 2004,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 2015,
       "exportedPath": "алгебра/📒биквадратные-уравнения.html",
       "dependencies": []
     },
     "Алгебра/📒Квадратный трёхчлен.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1890,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1901,
       "exportedPath": "алгебра/📒квадратный-трёхчлен.html",
       "dependencies": []
     },
     "Алгебра/📒Система уравнений.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 881,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 892,
       "exportedPath": "алгебра/📒система-уравнений.html",
       "dependencies": []
     },
     "Алгебра/📒Уравнения с двумя неизвестными.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1605,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1616,
       "exportedPath": "алгебра/📒уравнения-с-двумя-неизвестными.html",
       "dependencies": []
     },
     "География/📒Атмосферный фронт. Циклоны и антициклоны..md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 2576,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 2588,
       "exportedPath": "география/📒атмосферный-фронт.-циклоны-и-антициклоны..html",
       "dependencies": [
         "география/1.png"
       ]
     },
     "География/📒Минеральные ресурсы.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 901,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 914,
       "exportedPath": "география/📒минеральные-ресурсы.html",
       "dependencies": []
     },
     "География/📒Природные ресурсы земной коры.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1398,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1411,
       "exportedPath": "география/📒природные-ресурсы-земной-коры.html",
       "dependencies": []
     },
     "География/📒Рельеф.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 3720,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 3733,
       "exportedPath": "география/📒рельеф.html",
       "dependencies": []
     },
     "География/📒Солнечная радиация.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 4344,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 4355,
       "exportedPath": "география/📒солнечная-радиация.html",
       "dependencies": []
     },
     "Геометрия/Тригонометрия/📒Синус, косинус, тангенс треугольника..md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 925,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 935,
       "exportedPath": "геометрия/тригонометрия/📒синус,-косинус,-тангенс-треугольника..html",
       "dependencies": [
         "геометрия/тригонометрия/1.png"
       ]
     },
     "Информатика/Алгоритмы/📒 Алгоритмические конструкции.md": {
-      "modifiedTime": 1711972239405,
-      "sourceSize": 1252,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1214,
       "exportedPath": "информатика/алгоритмы/📒-алгоритмические-конструкции.html",
       "dependencies": [
         "информатика/алгоритмы/4.png",
+        "информатика/алгоритмы/2.png",
+        "информатика/алгоритмы/3.png",
         "информатика/алгоритмы/7.png",
         "информатика/алгоритмы/6.png",
         "информатика/алгоритмы/5.png",
@@ -307,8 +314,8 @@
       ]
     },
     "Общество/📒Стимуляция труда.md": {
-      "modifiedTime": 1710869454730,
-      "sourceSize": 2442,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 2459,
       "exportedPath": "общество/📒стимуляция-труда.html",
       "dependencies": []
     },
@@ -319,42 +326,42 @@
       "dependencies": []
     },
     "Русский язык/📄Подготовка к зачёту.md": {
-      "modifiedTime": 1710869454730,
-      "sourceSize": 23378,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 23387,
       "exportedPath": "русский-язык/📄подготовка-к-зачёту.html",
       "dependencies": [
         "русский-язык/1.png"
       ]
     },
     "Физика/Элекричество/📒 Действие электрического тока..md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1328,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1337,
       "exportedPath": "физика/элекричество/📒-действие-электрического-тока..html",
       "dependencies": []
     },
     "Физика/Элекричество/📒 Закон Кулона.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1622,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1633,
       "exportedPath": "физика/элекричество/📒-закон-кулона.html",
       "dependencies": []
     },
     "Физика/Элекричество/📒 Направление электрического тока..md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 706,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 717,
       "exportedPath": "физика/элекричество/📒-направление-электрического-тока..html",
       "dependencies": [
         "физика/элекричество/10.png"
       ]
     },
     "Физика/Элекричество/📒 Объяснение электрических явлений. Напряжённость электрического поля..md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1817,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1828,
       "exportedPath": "физика/элекричество/📒-объяснение-электрических-явлений.-напряжённость-электрического-поля..html",
       "dependencies": []
     },
     "Физика/Элекричество/📒 Сила тока, единицы силы тока. Амперметр β..md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1318,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1329,
       "exportedPath": "физика/элекричество/📒-сила-тока,-единицы-силы-тока.-амперметр-β..html",
       "dependencies": [
         "физика/элекричество/9.png",
@@ -362,8 +369,8 @@
       ]
     },
     "Физика/Элекричество/📒 Электризация тела.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1480,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1491,
       "exportedPath": "физика/элекричество/📒-электризация-тела.html",
       "dependencies": [
         "физика/элекричество/11.png",
@@ -372,8 +379,8 @@
       ]
     },
     "Физика/Элекричество/📒 Электрический ток в металлах.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1978,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1989,
       "exportedPath": "физика/элекричество/📒-электрический-ток-в-металлах.html",
       "dependencies": [
         "физика/элекричество/7.png",
@@ -382,22 +389,22 @@
       ]
     },
     "Физика/Элекричество/📒 Электрический ток. Источники электрического тока..md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1526,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1537,
       "exportedPath": "физика/элекричество/📒-электрический-ток.-источники-электрического-тока..html",
       "dependencies": [
         "физика/элекричество/6.png"
       ]
     },
     "Физика/Элекричество/📒 Электрическое напряжение, единицы измерения. Вольтметр..md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1432,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1443,
       "exportedPath": "физика/элекричество/📒-электрическое-напряжение,-единицы-измерения.-вольтметр..html",
       "dependencies": []
     },
     "Физика/Элекричество/📒 Электрическое поле. Атом..md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 2225,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 2234,
       "exportedPath": "физика/элекричество/📒-электрическое-поле.-атом..html",
       "dependencies": [
         "физика/элекричество/5.png",
@@ -406,380 +413,380 @@
       ]
     },
     "Физика/Элекричество/📒 Электрическое сопротивление. Закон ома для участка цепи..md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1212,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1223,
       "exportedPath": "физика/элекричество/📒-электрическое-сопротивление.-закон-ома-для-участка-цепи..html",
       "dependencies": [
         "физика/элекричество/13.png"
       ]
     },
     "Фун Грам/📒Неблагоприятные жизненные ситуации.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1242,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1247,
       "exportedPath": "фун-грам/📒неблагоприятные-жизненные-ситуации.html",
       "dependencies": []
     },
     "Фун Грам/📒Страхование.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1156,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1162,
       "exportedPath": "фун-грам/📒страхование.html",
       "dependencies": []
     },
     "Химия/📒Классы неорганических веществ. Оксиды и их Классификация..md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 2503,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 2515,
       "exportedPath": "химия/📒классы-неорганических-веществ.-оксиды-и-их-классификация..html",
       "dependencies": [
         "химия/1.png"
       ]
     },
     "Химия/📒Основания. Классификация и свойства оснований β..md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 918,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 972,
       "exportedPath": "химия/📒основания.-классификация-и-свойства-оснований-β..html",
       "dependencies": [
         "химия/2.png"
       ]
     },
     "Химия/📒Химические свойства оксидов.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1770,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1781,
       "exportedPath": "химия/📒химические-свойства-оксидов.html",
       "dependencies": []
     },
     "Главная страница.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 2068,
+      "modifiedTime": 1712162217990,
+      "sourceSize": 2120,
       "exportedPath": "главная-страница.html",
       "dependencies": []
     },
     "физика/элекричество/10.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 576997,
       "exportedPath": "физика/элекричество/10.png",
       "dependencies": []
     },
     "физика/элекричество/11.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 174010,
       "exportedPath": "физика/элекричество/11.png",
       "dependencies": []
     },
     "физика/элекричество/12.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 38944,
       "exportedPath": "физика/элекричество/12.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1711972239405,
-      "sourceSize": 42772,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 44554,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1711972239405,
-      "sourceSize": 6586,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 7182,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 157722,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 369,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Алгебра/📒Неравенства.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 1926,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1936,
       "exportedPath": "алгебра/📒неравенства.html",
       "dependencies": []
     },
     "Физика/Элекричество/📒 Расчёт сопротивления проводника. Удельное сопротивление..md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 3088,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 3099,
       "exportedPath": "физика/элекричество/📒-расчёт-сопротивления-проводника.-удельное-сопротивление..html",
       "dependencies": []
     },
@@ -982,140 +989,134 @@
       "dependencies": []
     },
     "география/1.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 62337,
       "exportedPath": "география/1.png",
       "dependencies": []
     },
     "геометрия/тригонометрия/1.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 13431,
       "exportedPath": "геометрия/тригонометрия/1.png",
       "dependencies": []
     },
     "информатика/алгоритмы/4.png": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 17095,
       "exportedPath": "информатика/алгоритмы/4.png",
       "dependencies": []
     },
-    "информатика/алгоритмы/3.png": {
-      "modifiedTime": 1711298560233,
-      "sourceSize": 13399,
-      "exportedPath": "информатика/алгоритмы/3.png",
-      "dependencies": []
-    },
     "информатика/алгоритмы/7.png": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 16523,
       "exportedPath": "информатика/алгоритмы/7.png",
       "dependencies": []
     },
     "информатика/алгоритмы/6.png": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 9252,
       "exportedPath": "информатика/алгоритмы/6.png",
       "dependencies": []
     },
     "информатика/алгоритмы/5.png": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 13062,
       "exportedPath": "информатика/алгоритмы/5.png",
       "dependencies": []
     },
     "информатика/алгоритмы/0.png": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 306609,
       "exportedPath": "информатика/алгоритмы/0.png",
       "dependencies": []
     },
     "информатика/алгоритмы/1.png": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 211019,
       "exportedPath": "информатика/алгоритмы/1.png",
       "dependencies": []
     },
     "русский-язык/1.png": {
-      "modifiedTime": 1710869454730,
+      "modifiedTime": 1712244283820,
       "sourceSize": 35755,
       "exportedPath": "русский-язык/1.png",
       "dependencies": []
     },
     "физика/элекричество/9.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 38138,
       "exportedPath": "физика/элекричество/9.png",
       "dependencies": []
     },
     "физика/элекричество/8.jpg": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 54203,
       "exportedPath": "физика/элекричество/8.jpg",
       "dependencies": []
     },
     "физика/элекричество/7.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 570890,
       "exportedPath": "физика/элекричество/7.png",
       "dependencies": []
     },
     "физика/элекричество/1.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 18930,
       "exportedPath": "физика/элекричество/1.png",
       "dependencies": []
     },
     "физика/элекричество/2.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 8358,
       "exportedPath": "физика/элекричество/2.png",
       "dependencies": []
     },
     "физика/элекричество/6.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 69191,
       "exportedPath": "физика/элекричество/6.png",
       "dependencies": []
     },
     "физика/элекричество/5.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 284222,
       "exportedPath": "физика/элекричество/5.png",
       "dependencies": []
     },
     "физика/элекричество/3.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 76440,
       "exportedPath": "физика/элекричество/3.png",
       "dependencies": []
     },
     "физика/элекричество/4.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 75162,
       "exportedPath": "физика/элекричество/4.png",
       "dependencies": []
     },
     "физика/элекричество/13.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 129612,
       "exportedPath": "физика/элекричество/13.png",
       "dependencies": []
     },
     "химия/1.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 46102,
       "exportedPath": "химия/1.png",
       "dependencies": []
     },
     "химия/2.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 35395,
       "exportedPath": "химия/2.png",
       "dependencies": []
     },
     "Физика/Элекричество/📒 Последовательное и парралельное соединение.md": {
-      "modifiedTime": 1710872174890,
-      "sourceSize": 3394,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 3525,
       "exportedPath": "физика/элекричество/📒-последовательное-и-парралельное-соединение.html",
       "dependencies": [
         "физика/элекричество/14.png",
@@ -1135,26 +1136,26 @@
       "dependencies": []
     },
     "физика/элекричество/14.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 34434,
       "exportedPath": "физика/элекричество/14.png",
       "dependencies": []
     },
     "физика/элекричество/15.png": {
-      "modifiedTime": 1710872174890,
+      "modifiedTime": 1712244283820,
       "sourceSize": 33684,
       "exportedPath": "физика/элекричество/15.png",
       "dependencies": []
     },
     "Алгебра/Алгебра.md": {
-      "modifiedTime": 1711968239516,
-      "sourceSize": 407,
+      "modifiedTime": 1712162217990,
+      "sourceSize": 497,
       "exportedPath": "алгебра/алгебра.html",
       "dependencies": []
     },
     "ВиС/🗒️  Задачи типа PS001.md": {
-      "modifiedTime": 1710869454730,
-      "sourceSize": 2338,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 2348,
       "exportedPath": "вис/🗒️-задачи-типа-ps001.html",
       "dependencies": []
     },
@@ -1213,8 +1214,8 @@
       "dependencies": []
     },
     "Химия/Химия.md": {
-      "modifiedTime": 1710868042867,
-      "sourceSize": 323,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 361,
       "exportedPath": "химия/химия.html",
       "dependencies": []
     },
@@ -1225,8 +1226,8 @@
       "dependencies": []
     },
     "Алгебра/📒Сложение и умножение числовых неравенств.md": {
-      "modifiedTime": 1711968239516,
-      "sourceSize": 1900,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1941,
       "exportedPath": "алгебра/📒сложение-и-умножение-числовых-неравенств.html",
       "dependencies": []
     },
@@ -1287,21 +1288,15 @@
       "exportedPath": "прочее/docker/2.png",
       "dependencies": []
     },
-    "Алгебра/📒Функция β.md": {
-      "modifiedTime": 1711968239516,
-      "sourceSize": 3501,
-      "exportedPath": "алгебра/📒функция-β.html",
-      "dependencies": []
-    },
     "История/📒Политика Екатерины II.md": {
-      "modifiedTime": 1711972239405,
-      "sourceSize": 2284,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 2313,
       "exportedPath": "история/📒политика-екатерины-ii.html",
       "dependencies": []
     },
     "История/📒Россия в эпоху преобразований Петра I. Начальная точка..md": {
-      "modifiedTime": 1711972239405,
-      "sourceSize": 4100,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 4110,
       "exportedPath": "история/📒россия-в-эпоху-преобразований-петра-i.-начальная-точка..html",
       "dependencies": [
         "история/2.png",
@@ -1310,8 +1305,8 @@
       ]
     },
     "История/📒Социальные и национальные движения. Оппозиция реформам..md": {
-      "modifiedTime": 1711972239405,
-      "sourceSize": 3429,
+      "modifiedTime": 1712244283820,
+      "sourceSize": 3440,
       "exportedPath": "история/📒социальные-и-национальные-движения.-оппозиция-реформам..html",
       "dependencies": []
     },
@@ -1334,21 +1329,57 @@
       "dependencies": []
     },
     "история/2.png": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 73429,
       "exportedPath": "история/2.png",
       "dependencies": []
     },
     "история/3.png": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 115289,
       "exportedPath": "история/3.png",
       "dependencies": []
     },
     "история/1.png": {
-      "modifiedTime": 1711972239405,
+      "modifiedTime": 1712244283820,
       "sourceSize": 595238,
       "exportedPath": "история/1.png",
+      "dependencies": []
+    },
+    "Алгебра/Функции/📒Виды  функций α.md": {
+      "modifiedTime": 1712244283820,
+      "sourceSize": 3061,
+      "exportedPath": "алгебра/функции/📒виды-функций-α.html",
+      "dependencies": []
+    },
+    "Алгебра/Функции/📒Функция. Начальная точка. α.md": {
+      "modifiedTime": 1712244283820,
+      "sourceSize": 3763,
+      "exportedPath": "алгебра/функции/📒функция.-начальная-точка.-α.html",
+      "dependencies": []
+    },
+    "Физика/Элекричество/📒 Работа и мощность электрического тока. Закон Джоуля-Ленца.md": {
+      "modifiedTime": 1712244283820,
+      "sourceSize": 1672,
+      "exportedPath": "физика/элекричество/📒-работа-и-мощность-электрического-тока.-закон-джоуля-ленца.html",
+      "dependencies": []
+    },
+    "Химия/📒Строение атома.md": {
+      "modifiedTime": 1712244283820,
+      "sourceSize": 927,
+      "exportedPath": "химия/📒строение-атома.html",
+      "dependencies": []
+    },
+    "информатика/алгоритмы/2.png": {
+      "modifiedTime": 1712244283820,
+      "sourceSize": 7841,
+      "exportedPath": "информатика/алгоритмы/2.png",
+      "dependencies": []
+    },
+    "информатика/алгоритмы/3.png": {
+      "modifiedTime": 1712244283820,
+      "sourceSize": 13399,
+      "exportedPath": "информатика/алгоритмы/3.png",
       "dependencies": []
     }
   }
