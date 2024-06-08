@@ -1,6 +1,6 @@
 {
   "vaultName": "school",
-  "lastExport": 1715619587163,
+  "lastExport": 1717866907696,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -56,8 +56,9 @@
     "Прочее/Docker/3. Переменные окружения.md",
     "Прочее/Docker/4. Docker Compose.md",
     "Прочее/Temp/CH2024001.md",
-    "Русский язык/📄Подготовка к зачёту.pdf",
+    "Прочее/Temp/GHOEo393.md",
     "Русский язык/📄Подготовка к зачёту.md",
+    "Русский язык/📄Подготовка к зачёту.pdf",
     "Русский язык/1.png",
     "Русский язык/Русский язык.md",
     "Физика/Магнитные явления/📒 Действие магнитного поля на проводник с током. Правило левой руки. Электродвигатель.md",
@@ -111,6 +112,7 @@
     "Физика/7.png",
     "Физика/8.png",
     "Физика/9.png",
+    "Физика/10.png",
     "Физика/Физика.md",
     "Фун Грам/📒Неблагоприятные жизненные ситуации.md",
     "Фун Грам/📒Страхование.md",
@@ -388,8 +390,8 @@
       "dependencies": []
     },
     "Физика/Элекричество/📒 Направление электрического тока..md": {
-      "modifiedTime": 1712244283820,
-      "sourceSize": 717,
+      "modifiedTime": 1717866907696,
+      "sourceSize": 755,
       "exportedPath": "физика/элекричество/📒-направление-электрического-тока..html",
       "dependencies": [
         "физика/элекричество/10.png"
@@ -503,7 +505,7 @@
       "dependencies": []
     },
     "физика/элекричество/10.png": {
-      "modifiedTime": 1712244283820,
+      "modifiedTime": 1717866907696,
       "sourceSize": 576997,
       "exportedPath": "физика/элекричество/10.png",
       "dependencies": []
@@ -521,301 +523,301 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1715619587163,
-      "sourceSize": 55941,
+      "modifiedTime": 1717866907696,
+      "sourceSize": 56598,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1715619587163,
-      "sourceSize": 8821,
+      "modifiedTime": 1717866907696,
+      "sourceSize": 8862,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 157722,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 368,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1715619587163,
+      "modifiedTime": 1717866907696,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -1172,13 +1174,13 @@
       "dependencies": []
     },
     "физика/элекричество/14.png": {
-      "modifiedTime": 1715619484213,
+      "modifiedTime": 1717866907696,
       "sourceSize": 34434,
       "exportedPath": "физика/элекричество/14.png",
       "dependencies": []
     },
     "физика/элекричество/15.png": {
-      "modifiedTime": 1715619484213,
+      "modifiedTime": 1717866907696,
       "sourceSize": 33684,
       "exportedPath": "физика/элекричество/15.png",
       "dependencies": []
@@ -1577,8 +1579,8 @@
       "dependencies": []
     },
     "Физика/📄 Подготовка к ВПР по физике 8 класс.md": {
-      "modifiedTime": 1715619484213,
-      "sourceSize": 23676,
+      "modifiedTime": 1717866907696,
+      "sourceSize": 26790,
       "exportedPath": "физика/📄-подготовка-к-впр-по-физике-8-класс.html",
       "dependencies": [
         "физика/1.png",
@@ -1590,7 +1592,8 @@
         "физика/5.png",
         "физика/7.png",
         "физика/8.png",
-        "физика/9.png"
+        "физика/9.png",
+        "физика/10.png"
       ]
     },
     "Физика/1.png": {
@@ -1648,51 +1651,69 @@
       "dependencies": []
     },
     "физика/1.png": {
-      "modifiedTime": 1715619484213,
+      "modifiedTime": 1717866907696,
       "sourceSize": 71366,
       "exportedPath": "физика/1.png",
       "dependencies": []
     },
     "физика/2.png": {
-      "modifiedTime": 1715619484213,
+      "modifiedTime": 1717866907696,
       "sourceSize": 27827,
       "exportedPath": "физика/2.png",
       "dependencies": []
     },
     "физика/3.png": {
-      "modifiedTime": 1715619484213,
+      "modifiedTime": 1717866907696,
       "sourceSize": 13916,
       "exportedPath": "физика/3.png",
       "dependencies": []
     },
     "физика/4.png": {
-      "modifiedTime": 1715619484213,
+      "modifiedTime": 1717866907696,
       "sourceSize": 21666,
       "exportedPath": "физика/4.png",
       "dependencies": []
     },
     "физика/5.png": {
-      "modifiedTime": 1715619484213,
+      "modifiedTime": 1717866907696,
       "sourceSize": 16577,
       "exportedPath": "физика/5.png",
       "dependencies": []
     },
     "физика/7.png": {
-      "modifiedTime": 1715619484213,
+      "modifiedTime": 1717866907696,
       "sourceSize": 3738,
       "exportedPath": "физика/7.png",
       "dependencies": []
     },
     "физика/8.png": {
-      "modifiedTime": 1715619484213,
+      "modifiedTime": 1717866907696,
       "sourceSize": 19366,
       "exportedPath": "физика/8.png",
       "dependencies": []
     },
     "физика/9.png": {
-      "modifiedTime": 1715619484213,
+      "modifiedTime": 1717866907696,
       "sourceSize": 26489,
       "exportedPath": "физика/9.png",
+      "dependencies": []
+    },
+    "Прочее/Temp/GHOEo393.md": {
+      "modifiedTime": 1717866907696,
+      "sourceSize": 6723,
+      "exportedPath": "прочее/temp/ghoeo393.html",
+      "dependencies": []
+    },
+    "Физика/10.png": {
+      "modifiedTime": 1717866907696,
+      "sourceSize": 9547,
+      "exportedPath": "физика/10.png",
+      "dependencies": []
+    },
+    "физика/10.png": {
+      "modifiedTime": 1717866907696,
+      "sourceSize": 9547,
+      "exportedPath": "физика/10.png",
       "dependencies": []
     }
   }
