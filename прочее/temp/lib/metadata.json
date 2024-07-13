@@ -1,0 +1,598 @@
+{
+  "vaultName": "Notes",
+  "lastExport": 1720848792090,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Казань 2024.md",
+    "src/sam_0063.jpg",
+    "src/4.jpg",
+    "src/sam_0084.jpg",
+    "src/sam_0001.jpg",
+    "src/sam_0070.jpg",
+    "src/sam_0055.jpg",
+    "src/sam_0061.jpg",
+    "src/sam_0033.jpg",
+    "src/sam_0036.jpg",
+    "src/sam_0041.jpg",
+    "src/sam_0034.jpg",
+    "src/sam_0006.jpg",
+    "src/sam_0009.jpg",
+    "src/sam_0013.jpg",
+    "src/sam_0001-1.jpg",
+    "src/sam_0030.jpg",
+    "src/sam_0012.jpg",
+    "src/sam_0024.jpg",
+    "src/sam_0036-1.jpg",
+    "src/sam_0042.jpg",
+    "src/sam_0016.jpg",
+    "src/sam_0041-1.jpg",
+    "src/sam_0059.jpg",
+    "src/sam_0044.jpg",
+    "src/sam_0051.jpg",
+    "src/sam_0061-1.jpg",
+    "src/sam_0077.jpg",
+    "src/sam_0071.jpg",
+    "src/1.jpg",
+    "src/10.jpg",
+    "src/9.jpg",
+    "src/11.jpg",
+    "src/sam_0010.jpg",
+    "src/sam_0043.jpg",
+    "src/sam_0039.jpg",
+    "src/sam_0042-1.jpg",
+    "src/sam_0058.jpg",
+    "src/sam_0060.jpg",
+    "src/sam_0059-1.jpg",
+    "src/sam_0062.jpg",
+    "src/sam_0063-1.jpg",
+    "src/img_20240607_202913.jpg",
+    "src/sam_0020.jpg",
+    "src/sam_0023.jpg",
+    "src/sam_0062-1.jpg",
+    "src/sam_0072.jpg",
+    "src/sam_0077-1.jpg",
+    "src/sam_0087.jpg",
+    "src/sam_0092.jpg",
+    "src/sam_0097.jpg",
+    "src/sam_0103.jpg",
+    "src/sam_0104.jpg",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/scripts/webpage.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/scripts/webpage.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Казань 2024.md": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 9254,
+      "exportedPath": "казань-2024.html",
+      "dependencies": [
+        "src/sam_0063.jpg",
+        "src/4.jpg",
+        "src/sam_0084.jpg",
+        "src/sam_0001.jpg",
+        "src/sam_0070.jpg",
+        "src/sam_0055.jpg",
+        "src/sam_0061.jpg",
+        "src/sam_0033.jpg",
+        "src/sam_0036.jpg",
+        "src/sam_0041.jpg",
+        "src/sam_0034.jpg",
+        "src/sam_0006.jpg",
+        "src/sam_0009.jpg",
+        "src/sam_0013.jpg",
+        "src/sam_0001-1.jpg",
+        "src/sam_0030.jpg",
+        "src/sam_0012.jpg",
+        "src/sam_0024.jpg",
+        "src/sam_0036-1.jpg",
+        "src/sam_0042.jpg",
+        "src/sam_0016.jpg",
+        "src/sam_0041-1.jpg",
+        "src/sam_0059.jpg",
+        "src/sam_0044.jpg",
+        "src/sam_0051.jpg",
+        "src/sam_0061-1.jpg",
+        "src/sam_0077.jpg",
+        "src/sam_0071.jpg",
+        "src/1.jpg",
+        "src/10.jpg",
+        "src/9.jpg",
+        "src/11.jpg",
+        "src/sam_0010.jpg",
+        "src/sam_0043.jpg",
+        "src/sam_0039.jpg",
+        "src/sam_0042-1.jpg",
+        "src/sam_0058.jpg",
+        "src/sam_0060.jpg",
+        "src/sam_0059-1.jpg",
+        "src/sam_0062.jpg",
+        "src/sam_0063-1.jpg",
+        "src/img_20240607_202913.jpg",
+        "src/sam_0020.jpg",
+        "src/sam_0023.jpg",
+        "src/sam_0062-1.jpg",
+        "src/sam_0072.jpg",
+        "src/sam_0077-1.jpg",
+        "src/sam_0087.jpg",
+        "src/sam_0092.jpg",
+        "src/sam_0097.jpg",
+        "src/sam_0103.jpg",
+        "src/sam_0104.jpg"
+      ]
+    },
+    "src/sam_0063.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 8223608,
+      "exportedPath": "src/sam_0063.jpg",
+      "dependencies": []
+    },
+    "src/4.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 6449117,
+      "exportedPath": "src/4.jpg",
+      "dependencies": []
+    },
+    "src/sam_0084.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 10376735,
+      "exportedPath": "src/sam_0084.jpg",
+      "dependencies": []
+    },
+    "src/sam_0001.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 10519019,
+      "exportedPath": "src/sam_0001.jpg",
+      "dependencies": []
+    },
+    "src/sam_0070.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 6691211,
+      "exportedPath": "src/sam_0070.jpg",
+      "dependencies": []
+    },
+    "src/sam_0055.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 7765982,
+      "exportedPath": "src/sam_0055.jpg",
+      "dependencies": []
+    },
+    "src/sam_0061.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 10237586,
+      "exportedPath": "src/sam_0061.jpg",
+      "dependencies": []
+    },
+    "src/sam_0033.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 4866165,
+      "exportedPath": "src/sam_0033.jpg",
+      "dependencies": []
+    },
+    "src/sam_0036.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 8279283,
+      "exportedPath": "src/sam_0036.jpg",
+      "dependencies": []
+    },
+    "src/sam_0041.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 6571918,
+      "exportedPath": "src/sam_0041.jpg",
+      "dependencies": []
+    },
+    "src/sam_0034.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 5055827,
+      "exportedPath": "src/sam_0034.jpg",
+      "dependencies": []
+    },
+    "src/sam_0006.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 9485795,
+      "exportedPath": "src/sam_0006.jpg",
+      "dependencies": []
+    },
+    "src/sam_0009.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 4873997,
+      "exportedPath": "src/sam_0009.jpg",
+      "dependencies": []
+    },
+    "src/sam_0013.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 1990396,
+      "exportedPath": "src/sam_0013.jpg",
+      "dependencies": []
+    },
+    "src/sam_0001-1.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 10030175,
+      "exportedPath": "src/sam_0001-1.jpg",
+      "dependencies": []
+    },
+    "src/sam_0030.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 8576690,
+      "exportedPath": "src/sam_0030.jpg",
+      "dependencies": []
+    },
+    "src/sam_0012.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 1068970,
+      "exportedPath": "src/sam_0012.jpg",
+      "dependencies": []
+    },
+    "src/sam_0024.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 7064412,
+      "exportedPath": "src/sam_0024.jpg",
+      "dependencies": []
+    },
+    "src/sam_0036-1.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 8352899,
+      "exportedPath": "src/sam_0036-1.jpg",
+      "dependencies": []
+    },
+    "src/sam_0042.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 1988230,
+      "exportedPath": "src/sam_0042.jpg",
+      "dependencies": []
+    },
+    "src/sam_0016.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 6728110,
+      "exportedPath": "src/sam_0016.jpg",
+      "dependencies": []
+    },
+    "src/sam_0041-1.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 8678397,
+      "exportedPath": "src/sam_0041-1.jpg",
+      "dependencies": []
+    },
+    "src/sam_0059.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 10206990,
+      "exportedPath": "src/sam_0059.jpg",
+      "dependencies": []
+    },
+    "src/sam_0044.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 8619295,
+      "exportedPath": "src/sam_0044.jpg",
+      "dependencies": []
+    },
+    "src/sam_0051.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 9831544,
+      "exportedPath": "src/sam_0051.jpg",
+      "dependencies": []
+    },
+    "src/sam_0061-1.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 6467331,
+      "exportedPath": "src/sam_0061-1.jpg",
+      "dependencies": []
+    },
+    "src/sam_0077.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 7009427,
+      "exportedPath": "src/sam_0077.jpg",
+      "dependencies": []
+    },
+    "src/sam_0071.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 8781505,
+      "exportedPath": "src/sam_0071.jpg",
+      "dependencies": []
+    },
+    "src/1.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 6424697,
+      "exportedPath": "src/1.jpg",
+      "dependencies": []
+    },
+    "src/10.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 7389459,
+      "exportedPath": "src/10.jpg",
+      "dependencies": []
+    },
+    "src/9.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 8150714,
+      "exportedPath": "src/9.jpg",
+      "dependencies": []
+    },
+    "src/11.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 6701653,
+      "exportedPath": "src/11.jpg",
+      "dependencies": []
+    },
+    "src/sam_0010.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 5917508,
+      "exportedPath": "src/sam_0010.jpg",
+      "dependencies": []
+    },
+    "src/sam_0043.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 7522766,
+      "exportedPath": "src/sam_0043.jpg",
+      "dependencies": []
+    },
+    "src/sam_0039.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 5010193,
+      "exportedPath": "src/sam_0039.jpg",
+      "dependencies": []
+    },
+    "src/sam_0042-1.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 7223177,
+      "exportedPath": "src/sam_0042-1.jpg",
+      "dependencies": []
+    },
+    "src/sam_0058.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 3797480,
+      "exportedPath": "src/sam_0058.jpg",
+      "dependencies": []
+    },
+    "src/sam_0060.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 7935430,
+      "exportedPath": "src/sam_0060.jpg",
+      "dependencies": []
+    },
+    "src/sam_0059-1.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 4177963,
+      "exportedPath": "src/sam_0059-1.jpg",
+      "dependencies": []
+    },
+    "src/sam_0062.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 7723373,
+      "exportedPath": "src/sam_0062.jpg",
+      "dependencies": []
+    },
+    "src/sam_0063-1.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 8976903,
+      "exportedPath": "src/sam_0063-1.jpg",
+      "dependencies": []
+    },
+    "src/img_20240607_202913.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 2987373,
+      "exportedPath": "src/img_20240607_202913.jpg",
+      "dependencies": []
+    },
+    "src/sam_0020.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 5994101,
+      "exportedPath": "src/sam_0020.jpg",
+      "dependencies": []
+    },
+    "src/sam_0023.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 6798174,
+      "exportedPath": "src/sam_0023.jpg",
+      "dependencies": []
+    },
+    "src/sam_0062-1.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 6360156,
+      "exportedPath": "src/sam_0062-1.jpg",
+      "dependencies": []
+    },
+    "src/sam_0072.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 6015614,
+      "exportedPath": "src/sam_0072.jpg",
+      "dependencies": []
+    },
+    "src/sam_0077-1.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 6415972,
+      "exportedPath": "src/sam_0077-1.jpg",
+      "dependencies": []
+    },
+    "src/sam_0087.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 8293500,
+      "exportedPath": "src/sam_0087.jpg",
+      "dependencies": []
+    },
+    "src/sam_0092.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 5680053,
+      "exportedPath": "src/sam_0092.jpg",
+      "dependencies": []
+    },
+    "src/sam_0097.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 9990557,
+      "exportedPath": "src/sam_0097.jpg",
+      "dependencies": []
+    },
+    "src/sam_0103.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 10260711,
+      "exportedPath": "src/sam_0103.jpg",
+      "dependencies": []
+    },
+    "src/sam_0104.jpg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 2402850,
+      "exportedPath": "src/sam_0104.jpg",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 309,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1720848792090,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
